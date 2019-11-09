@@ -1,1 +1,0 @@
-$tester = "found in subdir"

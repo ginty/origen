@@ -1,9 +1,0 @@
-This is a template without a
-.erb extension.
-
-It should only compile if
-Origen.config.compile_only_dot_erb_files == false
-
-% 10.times do
-Origen.config.compile_only_dot_erb_files is <%= Origen.config.compile_only_dot_erb_files %>
-% end
